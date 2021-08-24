@@ -2,10 +2,10 @@
 
 
 <a href="https://www.linkedin.com/in/sushant-kumar-rai-26a5491a6/">
-  <img align="left" alt="Sushant's LinkdeIN" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Sushant's LinkdeIN" width="40px" src="https://github.com/PrudhviGNV/PrudhviGNV/blob/master/logos/linkedin.png" />
 </a>
 <a href="https://leetcode.com/raisushantkumar726/">
-  <img align="left" alt="Sushant's Leetcode" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+  <img align="left" alt="Sushant's Leetcode" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/1200px-LeetCode_logo_white_no_text.svg.png" />
 </a>
 <br />
  <b><h2><a href="https://sushant2308.github.io/Portfolio-web/#/" align="left" > My portfolio : sushant2308.github.io </a></h2> <b>
