@@ -2,13 +2,13 @@
 
 
 <a href="https://www.linkedin.com/in/sushant-kumar-rai-26a5491a6/">
-  <img align="left" alt="Sushant's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Sushant's LinkdeIN" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://leetcode.com/raisushantkumar726/">
-  <img align="left" alt="Sushant's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+  <img align="left" alt="Sushant's Leetcode" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 <br />
- <a href="https://sushant2308.github.io/Portfolio-web/#/" align="left" > My portfolio : sushant.github.io </a> 
+ <b><h2><a href="https://sushant2308.github.io/Portfolio-web/#/" align="left" > My portfolio : sushant2308.github.io </a></h2> <b>
 <br />
 <br />
 
@@ -19,7 +19,7 @@ Hi, I'm Sushant Kumar Rai,a passionate engineering graduate specialised in Elect
 
 
 
- <img align="right" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/l1JJ7hRzqWBQ7dKys7/giphy.gif" />
+ <img align="right" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/DWaWnqZ5HZVvO/giphy.gif?cid=ecf05e478p77tisy9ieho9oquw6bykou61u75ssoe07noeuw&rid=giphy.gif&ct=s" />
 
 **Talking about Education/Skills:**
 
