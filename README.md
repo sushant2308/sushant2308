@@ -1,4 +1,4 @@
-### Hey 👋, I'm [Sushant Kumar Rai!](https://github.com/sushant2308)
+### Hey 👋, I'm [Sushant Kumar Rai !](https://github.com/sushant2308)
 
 
 <a href="https://www.linkedin.com/in/sushant-kumar-rai-26a5491a6/">
@@ -19,7 +19,7 @@ Hi, I'm Sushant Kumar Rai,a passionate engineering graduate specialised in Elect
 
 
 
- <img align="right" height="300px" width= "320px" alt="GIF" src="https://giphy.com/embed/ADSJHOoIvyjKM" />
+ <img align="right" height="300px" width= "320px" alt="GIF" src="https://giphy.com/gifs/naruto-manga-ADSJHOoIvyjKM" />
 
 **Talking about Education/Skills:**
 
@@ -41,7 +41,7 @@ Hi, I'm Sushant Kumar Rai,a passionate engineering graduate specialised in Elect
 
 
 
-💻 Recent projects in which I have contributed in my [github](https://github.com/PrudhviGNV/)
+💻 Recent projects in which I have contributed in my [github](https://github.com/sushant2308/)
 
 
 <a href="https://github.com/sushant2308/Green-World">
@@ -54,4 +54,7 @@ Hi, I'm Sushant Kumar Rai,a passionate engineering graduate specialised in Elect
 
 <a href="https://github.com/sushant2308/MovieFlix">
     <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=sushant2308&repo=MovieFlix" />
+</a>
+<a href="https://github.com/sushant2308/Portfolio-web">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=sushant2308&repo=Portfolio-web" />
 </a>
