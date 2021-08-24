@@ -19,7 +19,7 @@ Hi, I'm Sushant Kumar Rai,a passionate engineering graduate specialised in Elect
 
 
 
- <img align="right" height="300px" width= "320px" alt="GIF" src="https://giphy.com/gifs/naruto-manga-ADSJHOoIvyjKM" />
+ <img align="right" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/PmCiutdmK8mt2/giphy.gif" />
 
 **Talking about Education/Skills:**
 
