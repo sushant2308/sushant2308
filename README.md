@@ -24,7 +24,6 @@ Hi, I'm Sushant Kumar Rai,a passionate engineering graduate specialised in Elect
 **Talking about Education/Skills:**
 
 - 🎓 Graduating in 2022 from National Institute of Technology, Patna
--  python 
 -  Backend Development and Frontend Development
 - Python ,C++,
 -  Html, CSS, Java Script, JQuery, BootStrap, React, Django
